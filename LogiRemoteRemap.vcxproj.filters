@@ -32,6 +32,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="interception.dll" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="interception.lib" />
